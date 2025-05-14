@@ -1,0 +1,11 @@
+# requirements.txt
+
+langchain
+langchain-core
+langchain-community
+langchain-openai
+qdrant-client
+streamlit
+python-dotenv
+tiktoken
+openai 
