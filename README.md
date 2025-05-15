@@ -92,8 +92,8 @@ This version incorporates an **early validation layer** to identify and handle i
 
 1.  **Clone the Repository (if you haven't already):**
     ```bash
-    # git clone https://github.com/mahmoudelwaleed/CV_Filtering_System.git
-    # cd CV_Filtering_System
+    git clone https://github.com/mahmoudelwaleed/CV_Filtering_System.git
+    cd CV_Filtering_System
     ```
 
 2.  **Set up Environment Variables:**
